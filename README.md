@@ -115,29 +115,4 @@ python main.py
 
 
 
-Example: 
 
-<img width="1176" alt="s" src="https://github.com/user-attachments/assets/97d97112-703d-48f8-8075-a2de60d85cb1">
-
-
-![image](https://github.com/user-attachments/assets/8b825c7d-1f6e-4178-a68c-af6c4dc4877d)
-
-
-
-
-# Contact
-[Telegram](https://t.me/alpha4sol)
-- Telegram : @alpha4sol
-
-
-  
-
-
-
-## Disclaimer
-
-- This extension is not affiliated with Solana Foundation or Solana Labs. It is a non-profit community project.
-- Solana Snipe is in active development, so all the snippets are subject to change.
-- The snippets are unaudited. Use at your own risk.
-
-![Happy_GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif) 
